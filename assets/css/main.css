@@ -503,6 +503,7 @@ input, select, textarea {
 				}
 
 		.row.gtr-200 {
+			flew-wrap: none; 
 			margin-top: -100px;
 			margin-left: -100px;
 		}
