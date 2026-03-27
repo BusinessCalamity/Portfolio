@@ -13,6 +13,7 @@
 /** Below CSS is completely optional **/
 
 .gallery-container > a {
+  display: contents;
   max-width: 200px;
   max-height: 150px;
   padding: 5px;
