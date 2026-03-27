@@ -3017,6 +3017,7 @@ input, select, textarea {
 				position: relative;
 				padding-left: 7em;
 				height: 600px;
+				width: 100px;
 			}
 
 				.box.highlight i {
