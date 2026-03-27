@@ -2556,9 +2556,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	.box.highlight .image{
+	.box.highlight img{
 		  object-fit: cover;
-			width: 30%;
+			height: 600px;
+			width: auto;
 			margin: 0;;
 	}
 
