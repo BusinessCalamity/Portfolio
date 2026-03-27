@@ -2561,7 +2561,6 @@ input, select, textarea {
 	}
 
 	.box.highlight img{
-		  object-fit: cover;
 			height: 600px;
 			width: auto;
 			margin: 0;;
