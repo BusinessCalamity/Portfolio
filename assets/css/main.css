@@ -2560,10 +2560,7 @@ input, select, textarea {
 	}
 
 	.box.highlight .image{
-
-		height: 600px;
-		width: auto;
-		margin: 0;;
+		margin: 0;
 	}
 
 	.box.post {
