@@ -192,6 +192,7 @@ input, select, textarea {
   max-width: 300px;
   max-height: auto;
   padding: 5px;
+  display: inline-block;
 }
 
 .gallery-container img:hover {
