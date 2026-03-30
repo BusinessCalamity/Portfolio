@@ -203,8 +203,8 @@ input, select, textarea {
 }
 
 #gbars img {
-  width: auto !important;
-  height: calc(20vw - 20px) !important;
+   width: auto !important;
+   height: 600px !important;
   margin-bottom:5px; /* to match column gap */
 }
 
@@ -261,8 +261,8 @@ input, select, textarea {
 } 
 
 #gallery img {
-  width: calc(20vw - 20px) !important;
-  height: auto !important;
+  width: auto !important;
+  height: calc(20vw - 20px) !important;
 }
 
 #gallery img:hover {
