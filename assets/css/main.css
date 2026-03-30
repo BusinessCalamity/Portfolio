@@ -196,6 +196,7 @@ input, select, textarea {
    column-gap:5px;
    overflow: hidden;
 }
+
 #gbars a {
    height: 600px !important;
    margin-bottom:5px; /* to match column gap */
@@ -252,14 +253,16 @@ input, select, textarea {
    column-count:5;
    column-gap:5px;
 }
+
+/*
 #gallery a {
   width: calc(100% - 20px) !important;
   height: auto !important;
-  margin-bottom:5px; /* to match column gap */
-}
+  margin-bottom:5px;
+} */
 
 #gallery img {
-  width: calc(100% - 20px) !important;
+  width: calc(20% - 20px) !important;
   height: auto !important;
   margin-bottom:5px; /* to match column gap */
 }
