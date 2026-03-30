@@ -2903,6 +2903,10 @@ input, select, textarea {
 		.wrapper.style1 {
 			background: #fff;
 		}
+		.wrapper.bars {
+			padding: 0 0 0 0;
+			background: #fff;
+		}
 
 		.wrapper.style2 {
 			background-color: #fff;
