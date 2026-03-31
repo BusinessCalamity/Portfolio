@@ -225,6 +225,11 @@ a:hover .barAnim{
   animation-fill-mode: forwards;
 }
 
+@keyframes myAnimation {
+  from {left: 200px; opacity:0;}
+  to {left: 0px; opacity:1;}
+}
+
 #gbars img {
    width: auto !important;
    height: clamp(300px, 600px, 600px) !important;
