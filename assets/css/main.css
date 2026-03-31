@@ -261,7 +261,7 @@ div.gallery {
 	justify-content: center;
 		
 }
-
+/*
 .fslightbox-container::before{
 	display: flex;
 	justify-content: center;
@@ -272,7 +272,7 @@ div.gallery {
   bottom: 0.2vw;
 	  content: " (" attr(alt) ")" !important;
 }
-
+*/
 #gallery a {
   margin-bottom:5px;
 	line-height: 0px;
