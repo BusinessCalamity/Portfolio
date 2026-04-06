@@ -218,6 +218,7 @@ input, select, textarea {
 	left: 0px;
   opacity: 0;
 	mix-blend-mode: hard-light;
+		  cursor: pointer;
 }
 .barAnim h2 {
 	margin: 0 0 0 0;
@@ -226,6 +227,7 @@ input, select, textarea {
 	top: -7%;
 	left: 2%;
 	font-size: clamp(2rem, 2.5vw, 3.5rem);
+	cursor: pointer;
 }
 
 @media  (max-width: 500px) {
