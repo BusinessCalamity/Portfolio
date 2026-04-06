@@ -221,6 +221,7 @@ input, select, textarea {
 }
 .barAnim h2 {
 	margin: 0 0 0 0;
+		color: white;
 	position: absolute;
 	top: -7%;
 	left: 2%;
@@ -238,7 +239,6 @@ input, select, textarea {
 		bottom: 30%;
 		left: 2%;
 		font-size: 3em;
-		color: red;
 		writing-mode: vertical-rl;
 		line-height: 2.5rem ;
 	}
@@ -338,7 +338,7 @@ div.gallery {
 #gallery img {
 	margin: 0 5px 5px 0;
   width: auto !important;
-  height: calc(20vw - 20px) !important;
+  height: calc(22vw - 20px) !important;
 }
 
 #gallery img:hover {
