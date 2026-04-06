@@ -225,20 +225,20 @@ input, select, textarea {
 	position: absolute;
 	top: -7%;
 	left: 2%;
-	font-size: clamp(2rem, 2.5vw, 3.5rem) !important;
+	font-size: clamp(2rem, 2.5vw, 3.5rem);
 }
 
 @media  (max-width: 500px) {
 	.barAnim {
   height: 200px;
-	bottom: 10px;
+	bottom: 370px;
 	left: 0px;
 
   }
 	.barAnim h2 {
 		bottom: 30%;
 		left: 2%;
-		font-size: 3em;
+		font-size: 4em;
 		writing-mode: vertical-rl;
 		line-height: 2.5rem ;
 	}
