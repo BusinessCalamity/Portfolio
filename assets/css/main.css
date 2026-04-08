@@ -10,7 +10,9 @@
 .d-none {
   display:none
 }
-
+.d-block {
+  display:block
+}
 		
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -189,14 +191,14 @@ input, select, textarea {
 	}
 
 
-/* Games */
+/* Games 
 
 .vgame {
 	top: 0;
 	left: 0;
 	z-index: -1;
 }
-
+*/
 /* Gallery bars */
 #gbars {
    line-height:0;
