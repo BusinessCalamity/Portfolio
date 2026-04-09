@@ -2746,13 +2746,6 @@ a:hover .barAnim{
 		text-align: center;
 	}
 
-	.bars img{
-		height: -webkit-fill-available;
-		width: auto;
-		overflow: hidden;
-		margin: 0;
-	}
-
 		position: relative;
 		margin: 0 0 2em 0;
 	}
